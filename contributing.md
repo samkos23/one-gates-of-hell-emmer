@@ -194,4 +194,4 @@ Use the button in the Quick Start section.
 
 ---
 
-*Call to Arms - Gates of Hell · Updated 2026-11-19 · Shared under the MIT License*
+*Call to Arms - Gates of Hell · Updated 2026-11-20 · Shared under the MIT License*
